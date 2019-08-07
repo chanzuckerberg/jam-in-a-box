@@ -1,4 +1,4 @@
-## Jam in a Box
+## FROM THE README Jam in a Box
 
 Resources to help build more inclusive, scalable, and distributable scientific jamborees
 
