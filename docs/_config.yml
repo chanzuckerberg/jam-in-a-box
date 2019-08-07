@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
 show_downloads: false
 baseurl: /jam-in-a-box
 
