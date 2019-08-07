@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 show_downloads: false
 baseurl: /jam-in-a-box
+remote_theme: pmarsceill/just-the-docs
 
 nav:
   - title: Logistics
