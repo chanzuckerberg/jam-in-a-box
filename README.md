@@ -13,7 +13,7 @@ Jams have many benefits:
 
 Jams should be structured such that many groups will be performing parallel tasks (i.e. same tasks on different tissues or in different geographical regions) and will come together in the end to share learnings and resources produced.
 
-### How do you do a jam?
+### How do you jam?
 - infographic
 - visual timeline
 
