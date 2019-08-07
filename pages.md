@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Jam in a Box
 
-You can use the [editor on GitHub](https://github.com/chanzuckerberg/jam-in-a-box/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Resources to help build more inclusive, scalable, and distributable scientific jamborees
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What’s a jam?
 
-### Markdown
+Science jamborees, or jams, are small, interdisciplinary working meetings where we dig in deep on a scientific question and work through a shared problem over 2-4 days.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jams have many benefits:
+- Create an understanding around a shared scientific question
+- Build capacity for researchers in scientific convenings
+- Geographically inclusive meetings with a lower carbon footprint than traveling far distances for a single conference
 
-```markdown
-Syntax highlighted code block
+Jams should be structured such that many groups will be performing parallel tasks (i.e. same tasks on different tissues or in different geographical regions) and will come together in the end to share learnings and resources produced.
 
-# Header 1
-## Header 2
-### Header 3
+### How do you do a jam?
+- infographic
+- visual timeline
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chanzuckerberg/jam-in-a-box/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What does a real jam look like?
+Click here to see an example of the thought process for creating a jam.
