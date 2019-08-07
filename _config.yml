@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+show_downloads: false
+baseurl: /jam-in-a-box
+
+nav:
+  - title: Logistics
+    url: logistics.html
+  - title: Templates
+    url: templates.html
