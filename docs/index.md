@@ -1,4 +1,4 @@
-## FROM THE INDEX Jam in a Box
+## Jam in a Box
 
 Resources to help build more inclusive, scalable, and distributable scientific jamborees
 
